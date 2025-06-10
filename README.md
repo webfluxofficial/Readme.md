@@ -125,9 +125,8 @@ We specialize in creating **modern, scalable, and mobile-friendly** websites and
 
 
 
-##📞 Contact / Work With Me
-📲 Telegram: https://t.me/Brutal900l
-🌐 Website: webflux.tech (coming soon )
-📧 Email: webflux77@gmail.com (replace with real one)
+##  📞 Contact / Work With Me
+📲 Telegram: https://t.me/Brutal900l 
+📧 Email: webflux77@gmail.com 
 
 💬 “Whether you need a gaming panel or a full-fledged ecommerce platform – we’ll build it, fast and fully functional!”
