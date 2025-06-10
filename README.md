@@ -45,17 +45,9 @@ We specialize in:
 
 ## 📞 Want to Work With Us?
 
-📩 Telegram: [@Supp13betpro](https://t.me/Brutal900l)  
-🌍 Website: [webflux.tech](https://webflux.tech)  
+📩 Telegram: [contact us](https://t.me/Brutal900l)  
+ 
 📧 Email: webflux77@gmail.com *(replace this with your real one)*
 
 ---
 
-## 💬 Sample Code Snippet
-
-```php
-// Simple PHP Login Check
-if($username == "BRUTAL" && $password == "FREE") 
-    header("Location: club.13bet.shop/redirect");
-} else {
-    echo "❌ Invalid login";
